@@ -1,2 +1,2 @@
 # .NetMongoDBExample
-ASP.NET 7 Core MongoDB CRUD Example
+ASP.NET Core 7 MongoDB CRUD Example
